@@ -1,2 +1,2 @@
-a = 'Misha'
-print(a)
+for i in range(0,20):
+    (i)
