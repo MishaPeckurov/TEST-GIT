@@ -1,2 +1,2 @@
-for i in range(0,20):
-    (i)
+a = 'Misha'
+print(a)
